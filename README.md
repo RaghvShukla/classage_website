@@ -1,11 +1,11 @@
 # classage Website
 
 An educational video conferencing classroom platform.</br>
-![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepage1.png)
-![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepage2.png)
-![download page](https://github.com/RaghvShukla/classage_website/blob/master/images/download.png)
-![ios page](https://github.com/RaghvShukla/classage_website/blob/master/images/ios.png)
-![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepageP.png)
+![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepage1.png)</br>
+![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepage2.png)</br>
+![download page](https://github.com/RaghvShukla/classage_website/blob/master/images/download.png)</br>
+![ios page](https://github.com/RaghvShukla/classage_website/blob/master/images/ios.png)</br>
+![Homepage](https://github.com/RaghvShukla/classage_website/blob/master/images/homepageP.png)</br>
 ![ubuntu page](https://github.com/RaghvShukla/classage_website/blob/master/images/ubuntu.png)
 
 ## Getting Started
