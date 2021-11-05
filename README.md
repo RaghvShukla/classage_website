@@ -1,6 +1,7 @@
 # classage Website
 
 An educational video conferencing classroom platform.
+![Homepage](images/Screenshot (143).png)
 
 ## Getting Started
 
