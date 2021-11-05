@@ -1,7 +1,7 @@
 # classage Website
 
 An educational video conferencing classroom platform.</br>
-![Homepage](images/Screenshot (145).png?raw=true)
+![Homepage](https://github.com/RaghvShukla/classage_website/images/Screenshot (145).png?raw=true)
 
 ## Getting Started
 
