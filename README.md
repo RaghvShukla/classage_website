@@ -1,6 +1,6 @@
-# classage
+# classage Website
 
-An educational video conferencing classroom app.
+An educational video conferencing classroom platform.
 
 ## Getting Started
 
